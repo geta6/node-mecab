@@ -1,0 +1,9 @@
+argv = ['/usr/local/bin/node-waf', 'configure']
+blddir = '/Users/mega80b/program/node-mecab/build'
+commands = {'dist': 0, 'configure': True, 'distcheck': 0, 'install': 0, 'build': 0, 'clean': 0, 'distclean': 0, 'check': 0, 'uninstall': 0}
+cwd = '/Users/mega80b/program/node-mecab'
+environ = {'SSH_AUTH_SOCK': '/tmp/launch-XtZJoO/Listeners', 'PYTHONPATH': '/usr/local/lib/python2.7/site-packages:', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'LC_CTYPE': 'ja_JP.UTF-8', 'Apple_PubSub_Socket_Render': '/tmp/launch-RRQxUc/Render', 'LOGNAME': 'mega80b', 'USER': 'mega80b', 'HOME': '/Users/mega80b', 'ITERM_PROFILE': 'Default', 'PATH': '/Users/mega80b/Library/Haskell/bin:/Users/mega80b/.rbenv/shims:/Users/mega80b/.rbenv/bin:/Users/mega80b/.rbenv/shims:/Users/mega80b/.rbenv/bin:/usr/local/bin:/usr/local/sbin:/Users/mega80b/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin', 'DISPLAY': '/tmp/launch-Vi1s2H/org.x:0', 'TMPDIR': '/var/folders/xw/xz3dmp8d6fv20vcwk_xb3cl40000gn/T/', 'TERM_PROGRAM': 'iTerm.app', 'LANG': 'ja_JP.UTF-8', 'TERM': 'xterm-256color', 'SHELL': '/bin/zsh', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '1', 'OLDPWD': '/Users/mega80b/program', 'SECURITYSESSIONID': '186a6', 'PWD': '/Users/mega80b/program/node-mecab', '__CF_USER_TEXT_ENCODING': '0x1F5:1:14', 'Apple_Ubiquity_Message': '/tmp/launch-86Df1h/Apple_Ubiquity_Message', 'ITERM_SESSION_ID': 'w0t0p0', '_': '/usr/local/bin/node-waf', 'GREP_OPTIONS': '--color=auto', 'BYOBU_PREFIX': '/usr/local', 'GREP_COLOR': '1;32', 'COMMAND_MODE': 'unix2003', 'PAGER': 'less -R', 'LSCOLORS': 'Gxfxcxdxbxegedabagacad'}
+files = []
+hash = 0
+options = {'compile_targets': None, 'force': False, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'destdir': '', 'keep': False, 'zones': '', 'blddir': '', 'prefix': '/usr/local/', 'jobs': 4, 'srcdir': '', 'check_cxx_compiler': 'g++'}
+srcdir = '/Users/mega80b/program/node-mecab'
